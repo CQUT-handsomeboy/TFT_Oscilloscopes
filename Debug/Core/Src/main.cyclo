@@ -1,0 +1,17 @@
+../Core/Src/main.c:64:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:75:6:HAL_TIM_PeriodElapsedCallback	15
+../Core/Src/main.c:141:6:drawAxis	3
+../Core/Src/main.c:159:6:drawCoordinate_Sin	2
+../Core/Src/main.c:172:6:drawCoordinate1	4
+../Core/Src/main.c:188:6:drawCoordinate2	4
+../Core/Src/main.c:211:6:drawCoordinate3	4
+../Core/Src/main.c:227:6:onKey0	1
+../Core/Src/main.c:232:6:onKey1	1
+../Core/Src/main.c:237:6:onKey2	1
+../Core/Src/main.c:242:6:onKeyUP	1
+../Core/Src/main.c:254:5:main	1
+../Core/Src/main.c:307:6:SystemClock_Config	3
+../Core/Src/main.c:349:13:MX_TIM1_Init	4
+../Core/Src/main.c:395:13:MX_GPIO_Init	1
+../Core/Src/main.c:448:13:MX_FSMC_Init	2
+../Core/Src/main.c:508:6:Error_Handler	1
